@@ -1,0 +1,1 @@
+CREATE SCHEMA `complaint_db` ;
